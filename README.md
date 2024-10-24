@@ -44,12 +44,6 @@ Detailed API documentation is available via Postman:
 - [Postman API Documentation](https://www.postman.com/)
 - [JWT Documentation](https://jwt.io/)
 
-## How to Submit
-
-- Push your code to GitHub.
-- Deploy your application on Render.
-- Submit the GitHub repository URL and the Render deployment URL.
-
 ## License
 
 This project is licensed under the MIT License.
